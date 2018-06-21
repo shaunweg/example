@@ -23,6 +23,7 @@ body {
     padding: 20px;
     text-align: center;
     color: #ddddff;
+    border-radius: 50px 0px 0px 5px;
 }
 
 .header h1{
@@ -36,6 +37,7 @@ body {
 .topnav {
     overflow: hidden;
     background-color: #333;
+    border-radius: 0px 5px 5px 0px;
 }
 
 .topnav a {
@@ -80,6 +82,7 @@ body {
     background-color: #ddbbff;
     padding: 10px;
     text-align: center;
+    border-radius: 5px 5px 50px 5px;
 }
 
 .footer h1{
